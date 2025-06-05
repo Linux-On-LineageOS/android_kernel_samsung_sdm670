@@ -202,3 +202,4 @@ obj-y				+= motor/
 
 #TZIC
 obj-y  += security/samsung/tzic/
+obj-$(CONFIG_DRM_LINDROID_EVDI) += lindroid-drm/

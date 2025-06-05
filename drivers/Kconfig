@@ -238,4 +238,7 @@ source "drivers/motor/Kconfig"
 
 source "drivers/security/samsung/tzic/Kconfig"
 
+
+
+source "drivers/lindroid-drm/Kconfig
 endmenu
